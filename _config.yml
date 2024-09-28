@@ -28,7 +28,7 @@ github_username:  helinko
 linkedin_username: ristohelinko
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
